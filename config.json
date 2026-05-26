@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggereecrypt",
+        "uuid": 3532464,
+        "checksum": "md6328"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
